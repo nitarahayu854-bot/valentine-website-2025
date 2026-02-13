@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! aku beruntung bisa kenal kamu walaupun aku sadar dengan dengan hubungan ini, tapi aku tulus ada disini",
+        title: "Yay! aku beruntung bisa kenal kamu walaupun aku sadar dengan hubungan ini, tapi aku tulus ada disini",
         message: "I Love You Sayang, aku kangen kamu",
         emojis: "💖🤗💝💋❤️💕"  // These will bounce around
     },
